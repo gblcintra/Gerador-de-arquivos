@@ -1,0 +1,30 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Gerador de Arquivos\Gerador de Arquivos\bin\Debug\Gerador de Arquivos.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador de Arquivos.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador_de_Arquivos.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador de Arquivos.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\Gerador de Arquivos\Gerador de Arquivos\bin\Debug\Gerador de Arquivos.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Gerador de Arquivos\Gerador de Arquivos\bin\Debug\Gerador de Arquivos.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador de Arquivos.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador de Arquivos.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador_de_Arquivos.frmGerador.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador_de_Arquivos.frmSobre.resources
+C:\Users\Usuario\Desktop\Gerador de Arquivos\Gerador de Arquivos\bin\Debug\Gerador de Arquivos.exe.config
+C:\Users\Usuario\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador de Arquivos.exe
+C:\Users\Usuario\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador de Arquivos.pdb
+C:\Users\Usuario\Desktop\Gerador de Arquivos\Gerador de Arquivos\bin\Debug\Gerador de Arquivos.exe
+C:\Users\Usuario\Desktop\Gerador de Arquivos\Gerador de Arquivos\bin\Debug\Gerador de Arquivos.pdb
+C:\Users\Usuario\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador de Arquivos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador_de_Arquivos.frmGerador.resources
+C:\Users\Usuario\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador_de_Arquivos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador_de_Arquivos.frmSobre.resources
+C:\Users\Usuario\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador de Arquivos.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\Gerador de Arquivos\Gerador de Arquivos\bin\Debug\Gerador de Arquivos.exe.config
+C:\Users\Gabriel\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador de Arquivos.exe
+C:\Users\Gabriel\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador de Arquivos.pdb
+C:\Users\Gabriel\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador de Arquivos.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador_de_Arquivos.frmGerador.resources
+C:\Users\Gabriel\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador_de_Arquivos.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador_de_Arquivos.frmSobre.resources
+C:\Users\Gabriel\Desktop\Gerador de Arquivos\Gerador de Arquivos\obj\Debug\Gerador de Arquivos.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\Gerador de Arquivos\Gerador de Arquivos\bin\Debug\Gerador de Arquivos.exe
+C:\Users\Gabriel\Desktop\Gerador de Arquivos\Gerador de Arquivos\bin\Debug\Gerador de Arquivos.pdb
